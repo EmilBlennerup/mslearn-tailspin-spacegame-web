@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/EmilBlennerup/Space%20game%20web%20pipeline/_apis/build/status/EmilBlennerup.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/EmilBlennerup/Space%20game%20web%20pipeline/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
