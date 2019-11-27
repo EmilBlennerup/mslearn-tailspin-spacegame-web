@@ -1,3 +1,6 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=EmilBlennerup_mslearn-tailspin-spacegame-web&metric=alert_status)](https://sonarcloud.io/dashboard?id=EmilBlennerup_mslearn-tailspin-spacegame-web)
+
+[![Build Status](https://emilblennerup.visualstudio.com/Space%20game%20web%20pipeline/_apis/build/status/EmilBlennerup.mslearn-tailspin-spacegame-web?branchName=master)](https://emilblennerup.visualstudio.com/Space%20game%20web%20pipeline/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
